@@ -13,3 +13,9 @@ This project is a responsive Login and Sign-Up page built using HTML, CSS, and J
 - Error messages are displayed dynamically below the fields on validation failure.
 - Alerts for successful login or sign-up.
 - Modular code structure for better maintainability.
+- 
+## Instructions to Run the Project Locally
+1. Clone the repository:
+   ```bash
+   git clone <repository_url>
+   cd login-signup-form
