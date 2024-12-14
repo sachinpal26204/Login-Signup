@@ -1,6 +1,6 @@
 # Responsive Login and Sign-Up Form
 
-This project is a responsive Login and Sign-Up page built using HTML, CSS, and JavaScript. It demonstrates essential front-end skills, including form validation, localStorage integration, and a user-friendly design.
+This project is a responsive Login and Sign-Up page built using HTML, CSS, and JavaScript. including form validation, localStorage integration, and a user-friendly design.
 
 ## Features
 - Responsive design that adapts to desktop, tablet, and mobile devices.
